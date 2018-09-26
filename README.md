@@ -1,6 +1,10 @@
 ## SISTEMA PARA CALIDAD DE AIRE
 
+LARAVEL 5.5
+
+
 ## Requisitos
+
 
 - PHP >= 7.1.3
 - OpenSSL PHP Extension
